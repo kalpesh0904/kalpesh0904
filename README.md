@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kalpesho0904@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourname@gmail.com)](mailto:kalpesho0904@gmail.com)
 
 ## About Me
-I'm a passionate software developer with a keen interest in  machine learning, and web development. I love exploring new technologies and applying them to solve real-world problems
+I'm a passionate software developer with a keen interest in   web development and machine learning. I love exploring new technologies and applying them to solve real-world problems
 and  a Final year Engineering Student from Department of Electronics in RamdeoBaba University Nagpur.
 
 ## 🔧 Technologies & Tools
