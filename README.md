@@ -1,6 +1,6 @@
 # Hi there, I'm KALPESH! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kalpesh_Chaudhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](www.linkedin.com/in/kalpesh-chaudhari-088400259)
+[![Linkedin Badge](https://img.shields.io/badge/-Kalpesh_Chaudhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalpesh-chaudhari-088400259)](www.linkedin.com/in/kalpesh-chaudhari-088400259)
 [![Gmail Badge](https://img.shields.io/badge/-kalpesho0904@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourname@gmail.com)](mailto:kalpesho0904@gmail.com)
 
 ## About Me
