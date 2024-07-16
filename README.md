@@ -11,7 +11,7 @@ and  a Final year Engineering Student from Department of Electronics in RamdeoBa
 - **Languages**: Java, Python, JavaScript, Verilog
 - **Web Development**: HTML, CSS 
 - **Tools**: Visual Studio Code, Vivado, Git,BootStrap Studio,Intelli J
-- **Databases**: SQL,AWS CLOUD
+- **Databases**: SQL
 
 
 ## 🛠️ Projects
