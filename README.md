@@ -21,8 +21,9 @@ A machine learning project to  predict  winning probablity based on various para
 
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning Techniques
 - Backend Development
+- Advanced Machine Learning Techniques
+
 
 ## ⚡ Fun Fact
 I love working on complex problems and finding innovative solutions. In my free time, I enjoy playing strategic games and exploring new tech gadgets.
