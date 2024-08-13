@@ -26,7 +26,7 @@ A machine learning project to  predict  winning probablity based on various para
 
 
 ## ⚡ Fun Fact
-I love working on complex problems and finding innovative solutions. In my free time, I enjoy playing strategic games and exploring new tech gadgets.
+In my free time, I enjoy playing strategic games and exploring new tech gadgets.
 
 
 <!---
