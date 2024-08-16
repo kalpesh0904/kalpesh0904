@@ -16,7 +16,7 @@ and  a Final year Engineering Student from Department of Electronics in RamdeoBa
 
 ## 🛠️ Projects
 ### [Win-Probability Predictor Machine Learning Project](https://github.com/yourname/skill-tracking-ml)
-A machine learning project to  predict  winning probablity based on various parameters. Utilizes data analysis and predictive modeling techniques.
+A machine learning project to  predict  winning probability based on various parameters. Utilizes data analysis and predictive modeling techniques.
 
 
 
